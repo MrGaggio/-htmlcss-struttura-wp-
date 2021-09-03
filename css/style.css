@@ -68,14 +68,12 @@ body {
 .colonna1 {
     float: left;
     width: 28%;
-    height: 50px;
     background-color: limegreen;
 }
 
 .colonna2 {
     float: left;
     width: 40%;
-    height: 50px ;
     background-color: orange;
     margin: 0 2%;
 }
@@ -83,6 +81,5 @@ body {
 .colonna3 {
     float: left;
     width: 28%;
-    height: 50px;
     background-color: teal;
 }
