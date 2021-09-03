@@ -34,6 +34,14 @@ body {
     margin-bottom: 1rem;
 }
 
+.sitefooter {
+    height: 80px;
+    background-color: grey;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+
 
 /* Debug class */
 
