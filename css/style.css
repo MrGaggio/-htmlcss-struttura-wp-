@@ -34,3 +34,47 @@ body {
     margin-bottom: 1rem;
 }
 
+
+/* Debug class */
+
+.debug .colonna1 {
+    height: 200px;
+}
+
+.debug .colonna2 {
+    height: 200px;
+}
+
+.debug .colonna3 {
+    height: 200px;
+}
+
+
+
+
+.columscontainer {
+    
+    margin-bottom: 1rem;
+}
+
+.colonna1 {
+    float: left;
+    width: 28%;
+    height: 50px;
+    background-color: limegreen;
+}
+
+.colonna2 {
+    float: left;
+    width: 40%;
+    height: 50px ;
+    background-color: orange;
+    margin: 0 2%;
+}
+
+.colonna3 {
+    float: left;
+    width: 28%;
+    height: 50px;
+    background-color: teal;
+}
