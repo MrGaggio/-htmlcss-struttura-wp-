@@ -9,3 +9,15 @@
     display: table;
     clear: both;
 }
+
+
+body {
+    width: 80%;
+    margin: auto;
+}
+
+.siteheader {
+    height: 100px;
+    background-color: darkgoldenrod;
+    margin-bottom: 1rem;
+}
