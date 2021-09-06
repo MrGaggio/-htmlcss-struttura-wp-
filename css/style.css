@@ -16,27 +16,42 @@ body {
     margin: auto;
 }
 
-.siteheader {
+
+.debug > .siteheader {
     height: 80px;
     background-color: darkgoldenrod;
+
+}
+
+.siteheader {
     margin-bottom: 1rem;
+}
+
+.debug .jumbo {
+    height: 250px;
+    background-color: darkorchid;
 }
 
 .jumbo {
-    height: 250px;
-    background-color: darkorchid;
     margin-bottom: 1rem;
 }
 
-.intro {
+.debug .intro {
     height: 80px ;
     background-color: darkseagreen;
+}
+
+.intro {   
     margin-bottom: 1rem;
+
+}
+
+.debug .sitefooter {
+    height: 80px;
+    background-color: grey;
 }
 
 .sitefooter {
-    height: 80px;
-    background-color: grey;
     margin-bottom: 1rem;
     margin-top: 1rem;
 }
@@ -47,18 +62,18 @@ body {
 
 .debug .colonna1 {
     height: 200px;
+    background-color: limegreen;
 }
 
 .debug .colonna2 {
     height: 200px;
+    background-color: orange;
 }
 
 .debug .colonna3 {
     height: 200px;
+    background-color: teal;
 }
-
-
-
 
 .columscontainer {
     
@@ -68,18 +83,18 @@ body {
 .colonna1 {
     float: left;
     width: 28%;
-    background-color: limegreen;
+   
 }
 
 .colonna2 {
     float: left;
     width: 40%;
-    background-color: orange;
+    
     margin: 0 2%;
 }
 
 .colonna3 {
     float: left;
     width: 28%;
-    background-color: teal;
+    
 }
